@@ -7,6 +7,7 @@ Platforms (Windows, Linux, MacOS)
   - Scheduling
   - I/O
   - System-wide Resources
+
 Programming
   - Execution
   - Types
@@ -14,6 +15,7 @@ Programming
   - Safety
   - Platform API
   - Program Structure
+
 Object Models
   - Lifetime
   - Resource Management
