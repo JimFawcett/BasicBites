@@ -8,7 +8,7 @@ Platforms (Windows, Linux, MacOS)
   - I/O
   - System-wide Resources
 
-Programming
+Programming (C++, Rust, C#)
   - Execution
   - Types
   - Functions
@@ -16,7 +16,7 @@ Programming
   - Platform API
   - Program Structure
 
-Object Models
+Object Models (C++, Rust, C#)
   - Lifetime
   - Resource Management
   - Ownership
