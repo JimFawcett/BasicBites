@@ -1,0 +1,16 @@
+C:\su\github\CsFuncts\bin\Debug\net5.0\CsFuncts.exe
+C:\su\github\CsFuncts\bin\Debug\net5.0\CsFuncts.deps.json
+C:\su\github\CsFuncts\bin\Debug\net5.0\CsFuncts.runtimeconfig.json
+C:\su\github\CsFuncts\bin\Debug\net5.0\CsFuncts.runtimeconfig.dev.json
+C:\su\github\CsFuncts\bin\Debug\net5.0\CsFuncts.dll
+C:\su\github\CsFuncts\bin\Debug\net5.0\ref\CsFuncts.dll
+C:\su\github\CsFuncts\bin\Debug\net5.0\CsFuncts.pdb
+C:\su\github\CsFuncts\obj\Debug\net5.0\CsFuncts.csprojAssemblyReference.cache
+C:\su\github\CsFuncts\obj\Debug\net5.0\CsFuncts.GeneratedMSBuildEditorConfig.editorconfig
+C:\su\github\CsFuncts\obj\Debug\net5.0\CsFuncts.AssemblyInfoInputs.cache
+C:\su\github\CsFuncts\obj\Debug\net5.0\CsFuncts.AssemblyInfo.cs
+C:\su\github\CsFuncts\obj\Debug\net5.0\CsFuncts.csproj.CoreCompileInputs.cache
+C:\su\github\CsFuncts\obj\Debug\net5.0\CsFuncts.dll
+C:\su\github\CsFuncts\obj\Debug\net5.0\ref\CsFuncts.dll
+C:\su\github\CsFuncts\obj\Debug\net5.0\CsFuncts.pdb
+C:\su\github\CsFuncts\obj\Debug\net5.0\CsFuncts.genruntimeconfig.cache
