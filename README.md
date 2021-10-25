@@ -20,5 +20,6 @@ Object Models
   - Ownership
 
 This repository holds demonstration code for the Programming and Object Model sections of the BasicBites thread.
-
-# Contents are under construction, consisting of a fairly small part of its goal state.
+# -----
+Contents are under construction, consisting of a fairly small part of its goal state.
+# -----
